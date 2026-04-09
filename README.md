@@ -12,13 +12,13 @@ It simulates a real-world student attendance system where data is:
 
 ---
 
-## 🧱 Architecture
+## Architecture
 
 ![Architecture Diagram](images/architecture.png)
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **AWS S3** – Raw & processed data storage  
 - **AWS Glue (Crawler + ETL Job)** – Data cataloging & transformation  
@@ -28,7 +28,7 @@ It simulates a real-world student attendance system where data is:
 
 ---
 
-## 🔄 Pipeline Flow
+## Pipeline Flow
 
 1. **Data Ingestion**
    - Raw attendance CSV uploaded to S3
@@ -48,7 +48,7 @@ It simulates a real-world student attendance system where data is:
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 attendance-data-pipeline-aws/
 │
 ├── images/
@@ -64,7 +64,7 @@ attendance-data-pipeline-aws/
 
 ---
 
-## 📊 Sample Visualizations
+## Sample Visualizations
 
 ### 📌 Attendance Distribution
 ![Distribution](images/attendance_distribution.png)
@@ -77,7 +77,7 @@ attendance-data-pipeline-aws/
 
 ---
 
-## 💡 Key Features
+## Key Features
 
 - End-to-end pipeline using AWS services  
 - Efficient storage using Parquet format  
@@ -87,7 +87,7 @@ attendance-data-pipeline-aws/
 
 ---
 
-## ⚠️ Challenges Faced
+## Challenges Faced
 
 - Handling IAM permissions across AWS services  
 - Fixing Glue ETL job overwrite issues  
@@ -96,7 +96,7 @@ attendance-data-pipeline-aws/
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Add real-time ingestion using Kinesis  
 - Automate pipeline using AWS Step Functions  
@@ -105,7 +105,7 @@ attendance-data-pipeline-aws/
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 - Practical understanding of AWS data services  
 - Importance of data formats like Parquet  
@@ -114,13 +114,13 @@ attendance-data-pipeline-aws/
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Rajan Verma**  
 Engineering Student | Aspiring Data Engineer  
 
 ---
 
-## ⭐ If you like this project
+## If you like this project
 
-Give it a star ⭐ and connect with me on LinkedIn!
+Give it a star and connect with me on LinkedIn!
