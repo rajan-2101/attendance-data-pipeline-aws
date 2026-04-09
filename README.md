@@ -117,7 +117,7 @@ attendance-data-pipeline-aws/
 ## Author
 
 **Rajan Verma**  
-Engineering Student | Aspiring Data Engineer  
+Engineering Student   
 
 ---
 
